@@ -7,7 +7,7 @@ Y = np.random.normal(10, 1, 1000)
 
 st.title("Aplicación en clase")
 
-st.head("Add")
+
          
 fig, ax = plt.subplots(1, 2, sharex=True)
 
