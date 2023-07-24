@@ -13,3 +13,4 @@ fig, ax = plt.subplots(1, 2, sharex=True)
 
 ax[0].hist(X, bins=50)
 ax[1].hist(Y, bins=50)
+st.pyplot(fig)
